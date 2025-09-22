@@ -17,7 +17,7 @@ public class Foo {
     }
 
     public Corge getCorge() {
-        return this.corge;
+        this.corge;
     }
 
     public void setCorge(Corge corge) {
